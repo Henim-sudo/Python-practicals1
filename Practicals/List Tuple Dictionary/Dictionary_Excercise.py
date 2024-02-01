@@ -3,14 +3,14 @@ Student = {}
 print("Student Dictionary: ", Student)
 
 # 2. Add name, color, breed, legs, age to the Student dictionary
-Student["name"] = "Dhruv"
+Student["name"] = "Henim"
 Student["age"] = 3
 print("\nUpdated Student Dictionary: ", Student)
 
 # 3. Create a student dictionary and add first_name, last_name, gender, age, marital status, skills, country, city, and address as keys for the dictionary
 student = {
-    "first_name": "Dhruv",
-    "last_name": "Prajapati",
+    "first_name": "Henim",
+    "last_name": "Pandya",
     "gender": "Male",
     "age": 19,
     "marital_status": "Single",
