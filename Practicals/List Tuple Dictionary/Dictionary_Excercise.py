@@ -17,7 +17,7 @@ student = {
     "skills": ["React Js", "Node Js"],
     "country": "India",
     "city": "Anjar",
-    "address": "21 chakrava"
+    "address": "22 chakrava"
 }
 print("\nStudent Dictionary: ", student)
 
